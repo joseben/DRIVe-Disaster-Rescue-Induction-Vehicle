@@ -2,6 +2,8 @@
 
 The main purpose of this project is to use it as an object transporter robot during disasters.
 
+https://youtu.be/_NV6L1a9EE0
+
 # The System
 
 Instead of the usual Arduino UNO + wifi/ Bluetooth module combination which is bulky and complicated,DRIVe has an ESP32 board that has all these features packed into a single board, making it more compact. (The Esp32 also avoids the need for a GPIO extender)
