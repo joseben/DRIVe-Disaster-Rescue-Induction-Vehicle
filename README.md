@@ -2,7 +2,7 @@
 
 The main purpose of this project is to use it as an object transporter robot during disasters.
 
-https://youtu.be/_NV6L1a9EE0
+https://youtu.be/nldsgOFV0nQ
 
 # The System
 
