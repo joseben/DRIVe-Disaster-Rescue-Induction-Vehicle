@@ -4,7 +4,9 @@ The main purpose of this project is to use it as an object transporter robot dur
 
 DRIVe can also be used in case of a pandemic such as the Covid '19 pandemic. It can transport the medical supplies and Oxygen cylinders to isolated places or containment zones and reduce human interactions. The onboard camera can also evaluate the situation of the locality and people.
 
-https://youtu.be/nldsgOFV0nQ
+DRIVe is versatile to the situation, it can easily be converted from a surveillance robot to an object transporter or fumigation or UV sanitation robot.
+
+https://youtu.be/yySOq4Lg5jU
 
 ## Featues
 
